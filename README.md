@@ -1,6 +1,7 @@
 # StrandSøk
 
-Dette er en applikasjon for å finne badeplasser i rundt om i norge og få informasjon om vann, temperatur, vær, og farevarsler. Appen er utviklet i Kotlin med Jetpack Compose for brukergrensesnitt.
+Dette er en Android applikasjon for å finne badeplasser i rundt om i norge og få informasjon om vann, temperatur, vær, og farevarsler. 
+Appen er utviklet i Kotlin med Jetpack Compose for brukergrensesnitt. 
 
 ## Funksjoner
 
@@ -66,4 +67,3 @@ erstatning for disse måtte vi bruke disse symbolene.
 Style Issues - 3 Warnings. Disse for vi fordi vi har boolean uttrykk som kan forenkles
 vi velger å ikke endre dette siden måten vi har skrevet ting på synes vi er mer lesbart for
 oss. 
->>>>>>> dev
