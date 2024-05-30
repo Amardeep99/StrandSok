@@ -1,12 +1,6 @@
 ﻿# StrandSøk
 
-Dette er en applikasjon for å finne badeplasser i rundt om i norge og få informasjon om vann, temperatur, vær, og farevarsler. Appen er utviklet i Kotlin med Jetpack Compose for brukergrensesnitt. 
-
-Dokumentasjon finner du [her](https://pages.github.uio.no/audunpo/team-40-docs/)
-
-Arkitekturskisse finner du [her](https://github.uio.no/IN2000-V24/team-40/tree/main/src/Dataflyt.png)
-
-Modelleringsskisse finner du [her](https://github.uio.no/IN2000-V24/team-40/blob/main/MODELING.md)
+Dette er en applikasjon for å finne badeplasser i rundt om i norge og få informasjon om vann, temperatur, vær, og farevarsler. Appen er utviklet i Kotlin med Jetpack Compose for brukergrensesnitt.
 
 ## Funksjoner
 
@@ -32,21 +26,10 @@ Modelleringsskisse finner du [her](https://github.uio.no/IN2000-V24/team-40/blob
 - **MetAlerts** for farevarsler
 - **Dokka** for dokumentasjon
 
-## Installasjon
+## Credits
 
-1. Klon dette repositoryet: `git clone https://github.uio.no/IN2000-V24/team-40.git`
-2. Åpne prosjektet i Android Studio.
-3. Bygg og kjør appen på en emulator eller en fysisk enhet.
-    - Hvis emulator, husk å sette posisjon til et fornuftig sted på forhånd, for å kunne filtrere på avstand.
-
-## Bidragsytere
-
-- Mohammad Zuhur Afshar - mohamafs
-- Mehmet Capa - mehmetc
-- Audun Osborg - audunpo
-- Thomas Anders Reed - thomaree
-- Amardeep Singh - amardees
-- Abdullah Numan Uskudar - abdullau
+Dette prosjektet ble utført under emnet IN2000 ved UiO. Dette var et gruppeprosjekt som ble utført med hjelp
+fra 2 andre medstudenter. Vi var totalt 6 på prosjektet, men kun 3 av oss jobbet med koden. 
 
 ## Warnings
 
